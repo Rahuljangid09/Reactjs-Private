@@ -1,0 +1,16 @@
+
+.cardcontainer{
+    
+    width: 300px;   
+}
+.cardmain{
+    border-radius: 50px;
+}
+.cardcontent{
+
+     background-color: #f39ecf;
+     color: rgb(27, 26, 26);
+}
+.cardtext{
+    color: rgb(27, 26, 26);
+}
